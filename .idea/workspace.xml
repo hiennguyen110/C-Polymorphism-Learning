@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CPP_Projects" targetName="CPP_Projects" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8dc5da2-d9b2-4a18-9235-cb5a3f0fc138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CPP-Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/Boss.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/Employee.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Projects.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CPP_Projects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CPP_Projects.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZMqLa5f5OodZLdu0ujTjoi4q64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CPP_Projects" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP_Projects" TARGET_NAME="CPP_Projects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP_Projects" RUN_TARGET_NAME="CPP_Projects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8dc5da2-d9b2-4a18-9235-cb5a3f0fc138" name="Default Changelist" comment="" />
+      <created>1584659256182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584659256182</updated>
+      <workItem from="1584659260084" duration="6555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="315" key="GridCell.Tab.0.bottom" timestamp="1584665256334">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.bottom/70.27.1850.1173@70.27.1850.1173" timestamp="1584665256334" />
+    <state width="1804" height="315" key="GridCell.Tab.0.center" timestamp="1584665256333">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.center/70.27.1850.1173@70.27.1850.1173" timestamp="1584665256333" />
+    <state width="1804" height="315" key="GridCell.Tab.0.left" timestamp="1584665256333">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.left/70.27.1850.1173@70.27.1850.1173" timestamp="1584665256333" />
+    <state width="1804" height="315" key="GridCell.Tab.0.right" timestamp="1584665256334">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.right/70.27.1850.1173@70.27.1850.1173" timestamp="1584665256334" />
+    <state width="1804" height="388" key="GridCell.Tab.1.bottom" timestamp="1584665182546">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="388" key="GridCell.Tab.1.bottom/70.27.1850.1173@70.27.1850.1173" timestamp="1584665182546" />
+    <state width="1804" height="388" key="GridCell.Tab.1.center" timestamp="1584665182545">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="388" key="GridCell.Tab.1.center/70.27.1850.1173@70.27.1850.1173" timestamp="1584665182545" />
+    <state width="1804" height="388" key="GridCell.Tab.1.left" timestamp="1584665182545">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="388" key="GridCell.Tab.1.left/70.27.1850.1173@70.27.1850.1173" timestamp="1584665182545" />
+    <state width="1804" height="388" key="GridCell.Tab.1.right" timestamp="1584665182546">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="1804" height="388" key="GridCell.Tab.1.right/70.27.1850.1173@70.27.1850.1173" timestamp="1584665182546" />
+    <state x="484" y="248" width="1022" height="737" key="SettingsEditor" timestamp="1584659280715">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="484" y="248" width="1022" height="737" key="SettingsEditor/70.27.1850.1173@70.27.1850.1173" timestamp="1584659280715" />
+    <state x="651" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1584659260087">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="651" y="440" key="com.intellij.ide.util.TipDialog/70.27.1850.1173@70.27.1850.1173" timestamp="1584659260087" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

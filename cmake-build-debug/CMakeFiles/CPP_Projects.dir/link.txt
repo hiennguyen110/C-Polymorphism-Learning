@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPP_Projects.dir/main.cpp.o CMakeFiles/CPP_Projects.dir/Employee.cpp.o CMakeFiles/CPP_Projects.dir/Boss.cpp.o  -o CPP_Projects 

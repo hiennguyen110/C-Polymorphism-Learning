@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rootusr/Desktop/CPP-Projects/Boss.h
+Employee.h
+/home/rootusr/Desktop/CPP-Projects/Employee.h
+
+/home/rootusr/Desktop/CPP-Projects/Employee.h
+iostream
+-
+cstring
+-
+
+/home/rootusr/Desktop/CPP-Projects/main.cpp
+iostream
+-
+Employee.h
+/home/rootusr/Desktop/CPP-Projects/Employee.h
+Boss.h
+/home/rootusr/Desktop/CPP-Projects/Boss.h
+
